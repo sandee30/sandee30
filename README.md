@@ -6,7 +6,7 @@ I am Sandeep Pandey, an Electronics Engineering student and just another passion
 📚 Lifelong learner dedicated to improving skills and building meaningful projects.  
 🌐 Open to collaboration and sharing knowledge.
 
-# <img src="https://media.giphy.com/media/11JTxkrmq4bGE0/giphy.gif" width="30" alt="twinkling spark" /> Let’s create something awesome together!
+✨Let’s create something awesome together!✨
 
 
 
