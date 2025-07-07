@@ -1,4 +1,4 @@
-# 👋 Hey Geeks!
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24" alt="waving hand" /> Hey Geeks!
 
 I am Sandeep Pandey, just another passionate technology enthusiast who loves exploring new tools, programming languages, innovative ideas and engineer things.  
 
