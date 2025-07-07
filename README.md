@@ -6,7 +6,7 @@ I am Sandeep Pandey, an Electronics Engineering student and just another passion
 📚 Lifelong learner dedicated to improving skills and building meaningful projects.  
 🌐 Open to collaboration and sharing knowledge.
 
-Let's create something awesome together! # <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="32" alt="sparkles" /> 
+Let's create something awesome together! <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="32" alt="sparkles" /> 
 
 
 [Portfolio](https://codeunit.vercel.app)
