@@ -1,6 +1,6 @@
-# 👋 Hello Sandeep Pandey!
+# 👋 Hey Geeks!
 
-I'm a just another passionate technology enthusiast who loves exploring new tools, programming languages, innovative ideas and engineer things.  
+I am Sandeep Pandey, just another passionate technology enthusiast who loves exploring new tools, programming languages, innovative ideas and engineer things.  
 
 🔍 Interested in software development, hardware projects, and everything in between.  
 📚 Lifelong learner dedicated to improving skills and building meaningful projects.  
